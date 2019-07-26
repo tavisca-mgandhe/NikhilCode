@@ -1,0 +1,11 @@
+C:\Users\mgandhe\source\repos\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.deps.json
+C:\Users\mgandhe\source\repos\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.runtimeconfig.json
+C:\Users\mgandhe\source\repos\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.runtimeconfig.dev.json
+C:\Users\mgandhe\source\repos\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.dll
+C:\Users\mgandhe\source\repos\CSharpDemo\bin\Debug\netcoreapp2.1\CSharpDemo.pdb
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.csprojAssemblyReference.cache
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.AssemblyInfoInputs.cache
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.AssemblyInfo.cs
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.dll
+C:\Users\mgandhe\source\repos\CSharpDemo\obj\Debug\netcoreapp2.1\CSharpDemo.pdb
